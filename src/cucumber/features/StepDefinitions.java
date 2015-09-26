@@ -20,7 +20,7 @@ public class StepDefinitions {
 	private String winHandleBefore;
 	private FirefoxDriver driver = new FirefoxDriver();
 	
-	// Adding a comment
+	// Adding a Second comment
 	@Given("^I have started the browser$")
 	public void startBrowser() throws Throwable {
 	//	FirefoxDriver driver = new FirefoxDriver();
