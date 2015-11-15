@@ -16,6 +16,7 @@ import cucumber.api.java.en.When;
 
 public class StepDefinitions {
 	
+	// Adding a Comment
 	private WebElement searchField, suggestion, checkInCalendar, nextMonth, checkInDay;
 	private String winHandleBefore;
 	private FirefoxDriver driver = new FirefoxDriver();
